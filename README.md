@@ -1,7 +1,10 @@
-Salut, moi c'est dmz 👋
-Un mec chill qui dev sur FiveM.
+## Salut, moi c'est [**dmz**](https://github.com/dmzdb) 👋
 
-Tous mes projets sont ici (Dont beaucoup en privés)
-Développeur Lua
-J’apprends le langage JS,HTML
-Contacte-moi sur Discord
+_Un random qui dev sur FiveM._
+
+---
+
+- 📁 Tous mes projets sont [ici](https://github.com/dmzdb?tab=repositories) *(Dont beaucoup en privés)*
+- 🧠 Développeur **Lua**
+- 📚 J’apprends le langage **JS**
+- 💬 Contacte-moi sur [Discord](https://discord.com/users/dmz)
