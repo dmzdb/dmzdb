@@ -1,11 +1,11 @@
-## Salut, moi c'est [**dmz**](https://github.com/dmzdb) 👋
+## Salut, moi c'est [**dmz**](https://github.com/dmzdb)
 
-_Un mec qui dev sur FiveM trkl._
+_Un mec chill qui dev sur FiveM ou RedM trkll._
 
 ---
 
 - 📁 Tous mes projets sont [ici](https://github.com/dmzdb?tab=repositories) *(Dont beaucoup en privés)*
 - 🧠 Développeur **Lua**
-- 📚 J’apprends le langage **JS,HTML**
+- 📚 J’apprends le langage **JS,HTML,CSS et TSX**
 - 💬 Contacte-moi sur [Discord](https://discord.com/users/dmz)
-- 🧰 Mon Project FiveM : https://discord.gg/successwl
+- 🧰 Mon Project FiveM : https://discord.gg/successfr
