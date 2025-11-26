@@ -8,4 +8,3 @@ _Un mec chill qui dev sur FiveM ou RedM trkll._
 - 🧠 Développeur **Lua**
 - 📚 J’apprends le langage **JS,HTML,CSS et TSX**
 - 💬 Contacte-moi sur [Discord](https://discord.com/users/dmz)
-- 🧰 Mon Project FiveM : https://discord.gg/successfr
