@@ -1,6 +1,6 @@
 ## Salut, moi c'est [**dmz**](https://github.com/dmzdb)
 
-_Un mec chill qui dev sur FiveM ou RedM trkll._
+_Un mec chill qui dev._
 
 ---
 
