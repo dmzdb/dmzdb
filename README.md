@@ -1,7 +1,5 @@
 ## Salut, moi c'est [**dmz**](https://github.com/dmzdb)
 
-_Un mec chill qui dev._
-
 ---
 
 - 📁 Tous mes projets sont [ici](https://github.com/dmzdb?tab=repositories) *(Dont beaucoup en privés)*
