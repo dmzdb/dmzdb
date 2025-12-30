@@ -14,5 +14,5 @@
  <h2> Languages, Frameworks & Tools </h2>
    <img src="https://skillicons.dev/icons?i=js,css,lua,bash" /> <br>
    <img src="https://skillicons.dev/icons?i=nodejs,react,vue,git,mysql,mongodb" /> <br>
-   <img src="https://skillicons.dev/icons?i=github,mysql,vscode,bots,discord" />
+   <img src="https://skillicons.dev/icons?i=github,vscode,bots,discord" />
 </div>
