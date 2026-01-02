@@ -3,7 +3,7 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 I’m currently contributing to [**@Gline**](https://github.com/glinem/)
+- 🔭 I am currently contributing to personal development
 
  
 - 🌱 I’m currently learning Lua
